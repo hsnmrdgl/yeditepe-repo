@@ -1,2 +1,2 @@
-# yeditepeProjects
-Repository for school labworks and projects.
+# Yeditepe Projects
+Repository for school labworks, assignments and projects.
