@@ -1,4 +1,4 @@
-# Yeditepe University Projects
+# Yeditepe University Repository
 
 Repository for school labworks, assignments and projects.
 
