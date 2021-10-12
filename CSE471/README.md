@@ -1,3 +1,5 @@
+## Outline
+
 - Introduction to Networking
 - Application Layer
 - Transport Layer
